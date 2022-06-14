@@ -1,5 +1,4 @@
-# Levi-Bergamascki
-Profile ReadMe
+
 
 <h1 align="center">Olá 👋, meu nome é Levi Bergamascki</h1>
 <h3 align="center">Um estudante de programação, atualmente cursando Desenvolvimento de Sistemas na ETEC Professor Basilides de Godoy, em São Paulo</h3>
