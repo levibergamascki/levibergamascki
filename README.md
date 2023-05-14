@@ -9,7 +9,7 @@
 
 - ⚡ Working on [DevPolarys](https://github.com/POLARYS-DEVELOPMENT)
 
-- 💬 I want to start study **Python and Machine Learning**
+- 💬 I want to study **Python and Machine Learning**
 
 - 📫 How to reach me **levibergamascki@gmail.com**
 
